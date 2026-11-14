@@ -1,0 +1,2 @@
+# supermarket-pos
+تطبيق للمحل
